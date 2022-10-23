@@ -1,0 +1,8 @@
+POST https://exp.host/--/api/v2/push/send HTTP/1.1
+Content-Type: application/json
+
+{
+    "to": "ExponentPushToken[ySsWhbJKb-eyn-FTrZxpZX]",
+    "title": "hello",
+    "body": "world"
+}
